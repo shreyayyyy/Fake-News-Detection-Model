@@ -1,4 +1,4 @@
-# Fake-News-Detection-Model
+# Fake News Detection Model
 A machine learning system that classifies news articles as fake or real using NLP techniques.
 
 ## Dataset
